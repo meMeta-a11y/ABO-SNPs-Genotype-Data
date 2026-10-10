@@ -14,9 +14,9 @@ You must:
 - Give appropriate credit to the dataset owner(s)
 https://github.com/meMeta-a11y/ABO-SNPs-Genotype-Data/blob/main/LICENSE.txt
 
-Recommended Citation:
-If you use this dataset in academic work, please cite:
-Dr. Loo Keat WEI, (2026). ABO-SNPs-Genotype-Data. https://github.com/meMeta-a11y/ABO-SNPs-Genotype-Data
+Citation:
+If you use this dataset in academic work, please cite our paper:
+Qi CZ, Ting WE, Ni KY, Wei DY, Shaaban G, Mahadin M, Kuan TL, Wei LK. ABO gene variants rs651007 and rs630014 in ischemic stroke susceptibility: A meta-analysis. Human Gene. 2026 Sep 25:201604.
 
 Data Responsibility:
 This dataset is provided for research purposes only. Users are responsible for ensuring compliance with applicable ethical, institutional, and legal regulations regarding genotype data usage.
